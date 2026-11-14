@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "hexagonsafio2:item/motor_mejorado_nave"
+  }
+}

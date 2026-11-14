@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "tick"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "hexagonsafio2:ala_derecha_nave",
+      "hexagonsafio2:ala_izquierda_nave",
+      "hexagonsafio2:cabina_nave",
+      "hexagonsafio2:frasco_dilitio",
+      "hexagonsafio2:fuselaje_nave",
+      "hexagonsafio2:motor_mejorado_nave",
+      "hexagonsafio2:motor_nave",
+      "hexagonsafio2:nave_espacial",
+      "hexagonsafio2:plataforma_nave"
+    ]
+  }
+}

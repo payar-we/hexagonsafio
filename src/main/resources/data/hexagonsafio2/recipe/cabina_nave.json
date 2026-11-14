@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBA",
+    "N B",
+    "BBA"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "A": {
+      "item": "hexagonsafio2:ambar_fosil"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "id": "hexagonsafio2:cabina_nave",
+    "count": 1
+  }
+}
